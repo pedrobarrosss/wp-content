@@ -12,4 +12,4 @@ if (!defined('ABSPATH')) {
 }
 
 
-require_once plugin_dir_path(__FILE__) . "/plugin_titulo_nome/includes/plugin_titulo_nome_adicionando_nome.php";
+require_once plugin_dir_path(__FILE__) . "/includes/plugin_titulo_nome_adicionando_nome.php";
